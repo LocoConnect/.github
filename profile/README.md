@@ -1,4 +1,6 @@
-## LocoConnect firmware for Model Train Layout controlling
+## LocoConnect
+
+Firmware and utilities for Model Train Layout controlling using LocoNet
 
 <!--
 
